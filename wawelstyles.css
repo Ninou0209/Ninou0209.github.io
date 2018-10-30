@@ -1,0 +1,35 @@
+body {
+    margin-left: 50px;
+    marfin-right: 100px;
+    background-color: rgba(47,59,99,0.36);
+
+}
+
+
+p.p1 {
+    color: rgba(55, 56, 62, 0.99);
+    text-align: center;
+    margin-left: auto;
+    margin-right:: auto;
+}
+
+img.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h1.title{
+    text-align: center;
+    background-color: #61474e;
+    color: rgba(255,254,253,0.93);
+
+}
+
+h2.title{
+    text-align: center;
+    color: rgba(255,254,253,0.93);
+    text-underline : #B5AEC0;
+    color: rgba(97,71,78,0.71);
+}
+
